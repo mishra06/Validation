@@ -5,7 +5,7 @@
 ## Description
 This project is a React application that includes a user sign-up form with validation using Yup. The validation schema ensures that user inputs meet specific criteria, enhancing the overall user experience and data integrity.
 
-## [Live Link](https://form-validation-wheat-theta.vercel.app/)
+## [Live Link](https://formicformvalidation.vercel.app/)
 
 ## Features
 - **User Sign-Up**: A form that allows users to create an account.
@@ -32,13 +32,14 @@ Ensure you have the following installed:
    git clone https://github.com/yourusername/your-repo-name.git
 
 
-### Install the dependencies:
-
+# Install dependencies
 npm install
 
-### To start the development server, run:
+# To start the development server, run:
 
-npm start
+- npm start
+
+```
 
 ### Validation Rules Explained:
 
