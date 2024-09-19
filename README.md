@@ -26,19 +26,18 @@ Ensure you have the following installed:
 - Node.js (version 14.x or later)
 - npm (Node Package Manager)
 
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+## Getting Started
 
+```bash
+# Clone the repository
+git clone https://github.com/sanketmahadik191/Form-Validation.git
+cd Form-Validation
 
 # Install dependencies
 npm install
 
-# To start the development server, run:
-
-- npm start
-
+# Run the application
+npm start
 ```
 
 ### Validation Rules Explained:
