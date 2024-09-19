@@ -30,7 +30,7 @@ Ensure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/sanketmahadik191/Form-Validation.git
+git clone https://github.com/mishra06/Validation.git
 cd Form-Validation
 
 # Install dependencies
